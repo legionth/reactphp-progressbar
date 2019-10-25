@@ -69,10 +69,6 @@ The `maximumValue` event contains the integer value of the maximum reachable val
 of the progressbar.
 This event will be emitted if the progressbar is updated.
 
-### Customize
-
-The constructor
-
 ## Installation
 
 The recommended way to install this library is [through Composer](https://getcomposer.org).
